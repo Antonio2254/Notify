@@ -1,7 +1,10 @@
+/* font-family: 'Raleway', sans-serif;  
+   font-family: 'Pacifico', cursive; 
+   font-family: 'Open Sans', sans-serif;  */
+
 body{
     font-family: 'Pacifico', cursive;
     width:  100%;
-
 }
 hr{
     width: 100%;
@@ -10,3 +13,105 @@ hr{
     background-color: #39b365;
     opacity: 100%;
 }
+
+ div.pues{
+    background-image: url(../Notify/images/seccion\ 1/pues.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 757px;
+    margin-top: -.85%;
+ }
+h1.noti{
+  color: aliceblue;
+  font-size: 70px;
+  padding-left: 390px;
+  padding-top: 240px;  
+}
+
+img.punt{
+    width: 13px;
+    height: 13px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    opacity: 100%;
+    border-radius: 50%;
+    position: absolute;
+    left: 31%;
+    top: 32%;
+}
+
+h2.sec{
+    font-family: 'Open Sans', sans-serif; 
+    color: aliceblue;
+    font-size: 30px;
+    padding-left: 399px;
+    padding-top: 40px;
+}
+
+img.app{
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    opacity: 55%;
+    border-radius: 50%;
+    position: absolute;
+    left: 21%;
+    top: 50%;
+
+}
+
+img.aple{
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    opacity: 55%;
+    border-radius: 50%;
+    position: absolute;
+    left: 26%;
+    top: 50%;
+}
+
+img.manza{
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    opacity: 95%;
+    border-radius: 50%;
+    position: absolute;
+    left: 31%;
+    top: 50%;
+}
+
+img.log1{
+    width: 34px;
+    left: 21.89%;
+    top: 51.1%;
+    position: absolute;
+
+}
+
+img.log2{
+    width: 37%;
+    left: 9.4%;
+    top: 27%;
+    position: absolute;
+    color: aliceblue;
+    opacity: 85%;
+}
+
+img.log3{
+    width: 37%;
+    left: 14.3%;
+    top: 27.1%;
+    position: absolute;
+    color: aliceblue;
+}
+img.log4{
+    width: 1%;
+    left: 33%;
+    top: 54.1%;
+    position: absolute;
